@@ -1,70 +1,31 @@
-# HlCard - 国内用户虚拟信用卡首选 | 跨境支付解决方案
+# HLCard – Virtual Credit Card Landing Page
 
-HlCard是专为国内用户设计的虚拟信用卡平台。无需繁琐审核，5分钟快速开卡，支持支付宝充值，完美解决ChatGPT、GitHub Copilot等国际平台支付难题。
+> HLCard-2026 Best virtual credit card for international payments instant approval
 
-## 为什么选择HlCard？
+A single-page marketing website for **HLCard VCC** — an enterprise virtual card platform for global payment management, advertising spend, cloud services, AI tools, subscriptions, and cross-border procurement.
 
-相比传统银行卡和其他虚拟卡平台，HlCard提供更便捷、更安全的跨境支付体验
+## File Structure
 
-### ⚡ 5分钟极速开卡
-无需复杂审核，手机注册即可完成。支持Visa和Mastercard双卡组织，开卡零门槛，即开即用。
+```
+hlcard/
+├── generated_webpage.html
+├── favicon.svg
+└── README.md
+```
 
-### 🔒 银行级安全加密
-采用AES-256加密技术，支持3DS验证。预付费模式，只充值所需金额，盗刷风险极低。
+## Usage
 
-### 🌍 全球支付无障碍
-完美支持ChatGPT Plus、GitHub Copilot、Midjourney、Perplexity AI等100+国际平台订阅支付。
+Open `generated_webpage.html` in any modern browser. No build tools or server required.
 
-### 📱 智能卡片管理
-支持API接入，可设置单笔限额、自动冻结/解冻，实时交易提醒，完全掌控每一笔支出。
+## Registration
 
-### 💸 超低费率透明
-开户费一次性收取，充值手续费低至1%，无月费无年费，小额交易手续费豁免，性价比极高。
+All sign-up links point to: `https://www.hlcard.net/register?code=FC096115`
 
-## 完美支持的主流平台
+## Contact
 
-实测支持以下热门国际服务，持续增加中...
+- Telegram: @HLcardVCC
+- Customer Service: @meitianhenlafeng
+- Email: support@hlcard.net
+- WhatsApp: +84328221543
 
-| 平台 | 状态 |
-|------|------|
-| 🤖 ChatGPT / OpenAI | ✅ 自动续费稳定 |
-| 💻 GitHub Copilot | ✅ 开发者首选 |
-| 🎨 Midjourney | ✅ 秒过验证 |
-| 🔍 Perplexity AI | ✅ 支持订阅 |
-| ☁️ Cloudflare / Vercel | ✅ SaaS支付 |
-| 📺 YouTube / Netflix | ✅ 流媒体订阅 |
-
-## 简单四步，即刻开启全球支付
-
-1. **注册账号** - 访问HlCard官网，使用手机号快速注册，无需复杂KYC认证，保护您的隐私安全。
-2. **充值余额** - 选择支付宝或USDT充值，最低10美元起充，实时到账，资金完全由您掌控。
-3. **开通虚拟卡** - 选择Visa或Mastercard卡段，即时生成16位卡号、有效期和CVV码，准备就绪。
-4. **订阅服务** - 在目标平台输入卡片信息，通过3DS验证，即刻完成订阅，享受全球服务。
-
-## 常见问题解答
-
-### HlCard安全吗？会不会泄露个人信息？
-
-HlCard采用银行级AES-256加密技术，支持3DS验证。作为预付费虚拟卡，您只需充值所需金额，即使卡片信息泄露，损失也仅限于卡内余额。平台无需上传身份证照片，仅需简单实名认证，最大程度保护用户隐私。
-
-### 充值后能否提现？手续费如何？
-
-支持余额提现，手续费仅1-2%，支持全球汇款秒到账。充值手续费低至1%（根据账户等级），无月费、无年费，小额交易手续费豁免，相比传统银行跨境汇款（3-5%费率）更具优势。
-
-### 哪些平台确定支持？成功率如何？
-
-实测支持ChatGPT Plus、GitHub Copilot、Midjourney、Perplexity等主流平台，成功率接近100%。对于Apple/Google内购，需先绑定至相应账号后即可使用。建议选择香港卡段以提升支付通过率。
-
-### 开卡需要什么条件？有额度限制吗？
-
-只需手机号即可注册，完成简单实名认证后可解除充值限额。支持生成单次使用卡或可充值卡，可设置单笔限额和每日总额，灵活管理资金。商业版支持API批量开卡，适合开发者或企业用户。
-
-## 立即注册
-
-准备好解锁全球服务了吗？立即使用邀请码注册，开启您的跨境支付之旅。
-
-[立即免费注册 →](https://www.hlcard.net/register?code=FC096115)
-
----
-
-© 2026 meeke. All rights reserved.
+&copy; 2026 HLCard Financial Technology Ltd.
