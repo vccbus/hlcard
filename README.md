@@ -6,6 +6,12 @@ HLCard VCC is an enterprise virtual card platform designed for global payment ma
 
 ---
 
+## Register Now
+
+**https://www.hlcard.net/register?code=FC096115**
+
+---
+
 ## Quick Stats
 
 | Metric | Value |
