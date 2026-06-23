@@ -1,4 +1,4 @@
-# HLCard – Best Virtual Credit Card for International Payments
+# HLCard-2026 Best virtual credit card for international payments instant approval
 
 **Instant Approval** | **Multi-Currency** | **99.99% Payment Success Rate**
 
@@ -94,28 +94,6 @@ Supports digital currency recharge (processed by third-party licensed institutio
 ## Register Now
 
 **https://www.hlcard.net/register?code=FC096115**
-
----
-
-## Contact
-
-| Channel | Details |
-|---|---|
-| Telegram Channel | @HLcardVCC |
-| Customer Service | @meitianhenlafeng |
-| Email | support@hlcard.net |
-| WhatsApp | +84328221543 |
-| Facebook | facebook.com/meitianhenlafeng |
-
----
-
-## Files
-
-```
-index.html    — Single-page landing page
-favicon.svg   — SVG favicon
-README.md     — This file
-```
 
 ---
 
