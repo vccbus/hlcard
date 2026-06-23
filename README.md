@@ -12,6 +12,12 @@ HLCard VCC is an enterprise virtual card platform designed for global payment ma
 
 ---
 
+## Details Page
+
+**https://vccbus.github.io/hlcard/**
+
+---
+
 ## Quick Stats
 
 | Metric | Value |
